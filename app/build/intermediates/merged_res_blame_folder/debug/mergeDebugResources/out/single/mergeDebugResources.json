@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xhdpi_woman.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xhdpi/woman.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-hdpi_cal.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-hdpi/cal.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxxhdpi_btn_1.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxxhdpi/btn_1.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-hdpi_microphone.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-hdpi/microphone.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-hdpi_star.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-hdpi/star.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-mdpi_woman.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-mdpi/woman.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxhdpi_woman.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxhdpi/woman.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-mdpi_bg1.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-mdpi/bg1.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xhdpi_star.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xhdpi/star.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.movies.app-main-74:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.movies.app-main-74:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xhdpi_time.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xhdpi/time.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-hdpi_bg2.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-hdpi/bg2.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xhdpi_bg1.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xhdpi/bg1.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxhdpi_btn_4.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxhdpi/btn_4.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxxhdpi_fav.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxxhdpi/fav.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxxhdpi_btn_2.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxxhdpi/btn_2.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-ldpi_cal.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-ldpi/cal.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-hdpi_search.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-hdpi/search.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxhdpi_microphone.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxhdpi/microphone.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.movies.app-main-74:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-mdpi_float_icon.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-mdpi/float_icon.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-ldpi_fav.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-ldpi/fav.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-hdpi_float_icon.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-hdpi/float_icon.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-mdpi_bg2.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-mdpi/bg2.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xhdpi_search.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xhdpi/search.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-mdpi_cal.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-mdpi/cal.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-hdpi_woman.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-hdpi/woman.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-mdpi_btn_3.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-mdpi/btn_3.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-ldpi_microphone.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-ldpi/microphone.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-hdpi_back.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxxhdpi_btn_3.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxxhdpi/btn_3.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-ldpi_time.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-ldpi/time.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxhdpi_bg2.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxhdpi/bg2.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/xml_backup_rules.xml.flat",
+        "source": "com.example.movies.app-main-74:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xhdpi_btn_3.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xhdpi/btn_3.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-ldpi_woman.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-ldpi/woman.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxhdpi_fav.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxhdpi/fav.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxxhdpi_microphone.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxxhdpi/microphone.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xhdpi_fav.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xhdpi/fav.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xhdpi_float_icon.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xhdpi/float_icon.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxhdpi_btn_2.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxhdpi/btn_2.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.movies.app-main-74:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-mdpi_back.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-mdpi/back.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-ldpi_bg2.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-ldpi/bg2.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-hdpi_fav.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-hdpi/fav.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxxhdpi_search.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxxhdpi/search.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.movies.app-main-74:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-mdpi_microphone.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-mdpi/microphone.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.movies.app-main-74:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-mdpi_star.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-mdpi/star.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-ldpi_btn_3.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-ldpi/btn_3.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-ldpi_bg1.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-ldpi/bg1.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxxhdpi_bg2.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxxhdpi/bg2.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxhdpi_btn_1.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxhdpi/btn_1.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.movies.app-main-74:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxhdpi_back.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxhdpi/back.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.movies.app-main-74:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxxhdpi_back.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxxhdpi/back.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-hdpi_btn_3.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-hdpi/btn_3.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xhdpi_cal.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xhdpi/cal.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxxhdpi_time.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxxhdpi/time.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxxhdpi_btn_4.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxxhdpi/btn_4.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-ldpi_search.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-ldpi/search.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxxhdpi_woman.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxxhdpi/woman.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-mdpi_btn_1.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-mdpi/btn_1.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxhdpi_cal.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxhdpi/cal.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.movies.app-main-74:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.movies.app-main-74:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxhdpi_time.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxhdpi/time.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxxhdpi_cal.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxxhdpi/cal.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xhdpi_btn_2.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xhdpi/btn_2.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxxhdpi_float_icon.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxxhdpi/float_icon.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-ldpi_btn_2.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-ldpi/btn_2.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-mdpi_search.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-mdpi/search.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-mdpi_btn_2.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-mdpi/btn_2.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xhdpi_microphone.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xhdpi/microphone.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-hdpi_btn_2.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-hdpi/btn_2.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxhdpi_btn_3.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxhdpi/btn_3.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.movies.app-main-74:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-ldpi_float_icon.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-ldpi/float_icon.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xhdpi_back.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xhdpi/back.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xhdpi_bg2.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xhdpi/bg2.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxhdpi_float_icon.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxhdpi/float_icon.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.movies.app-main-74:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-mdpi_time.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-mdpi/time.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxxhdpi_star.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxxhdpi/star.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.movies.app-main-74:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-hdpi_bg1.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-hdpi/bg1.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-hdpi_btn_1.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-hdpi/btn_1.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxhdpi_search.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxhdpi/search.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-ldpi_btn_1.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-ldpi/btn_1.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.movies.app-main-74:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.movies.app-main-74:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxxhdpi_bg1.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxxhdpi/bg1.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-ldpi_btn_4.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-ldpi/btn_4.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxhdpi_bg1.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxhdpi/bg1.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-mdpi_btn_4.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-mdpi/btn_4.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xxhdpi_star.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xxhdpi/star.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xhdpi_btn_1.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xhdpi/btn_1.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-mdpi_fav.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-mdpi/fav.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-ldpi_back.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-ldpi/back.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-hdpi_btn_4.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-hdpi/btn_4.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-xhdpi_btn_4.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-xhdpi/btn_4.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-hdpi_time.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-hdpi/time.png"
+    },
+    {
+        "merged": "com.example.movies.app-debug-72:/drawable-ldpi_star.png.flat",
+        "source": "com.example.movies.app-main-74:/drawable-ldpi/star.png"
+    }
+]

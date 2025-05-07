@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black1">#fc19191b</color>
+    <color name="black2">#1b19191b</color>
+    <color name="black3">#282f32</color>
+    <color name="black4">#00282f32</color>
+    <color name="blackBackground">#19191b</color>
+    <color name="green">#34e3c4</color>
+    <color name="pink">#e45eb0</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFC107</color>
+    <string name="app_name">Movies</string>
+    <string name="gcm_defaultSenderId" translatable="false">126942228449</string>
+    <string name="google_api_key" translatable="false">AIzaSyCOkIZrWIgVGek4OYo6JWHVHzphng6hQ6E</string>
+    <string name="google_app_id" translatable="false">1:126942228449:android:2098bedce7b91cf095aca0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCOkIZrWIgVGek4OYo6JWHVHzphng6hQ6E</string>
+    <string name="google_storage_bucket" translatable="false">movies20-25.firebasestorage.app</string>
+    <string name="project_id" translatable="false">movies20-25</string>
+    <style name="Theme.Movies" parent="Theme.AppCompat.Light.NoActionBar"/>
+</resources>
